@@ -1,11 +1,12 @@
+/*Refaktoralo: Batki Zoltan Krisztian*/
 /*
 * File: App.java
-* Author: Batki Zoltan Krisztian
-* Copyright: 2025, Batki Zoltan Krisztian
-* Group: --
-* Date: 2025-01-08
-* Github: https://github.com/BZKrisztian
-* Licenc: --
+* Author: Sallai András
+* Copyright: 2024, Sallai András
+* Group: szit
+* Date: 2024-12-15
+* Github: https://github.com/oktat/
+* Licenc: MIT
 */
 import java.io.FileWriter;
 import java.io.IOException;
